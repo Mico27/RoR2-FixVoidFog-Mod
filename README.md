@@ -6,8 +6,6 @@ I simply removed the damage type assigned to the damageInfo created by the fog (
 
 feel free to ping/dm me with any questions / suggestion / complaints on the modding discord- @Mico27#0642
 
-Credit for thumbnail: https://www.youtube.com/watch?v=wBXN3CsvWQE
-
 ## Changelog
 
 `1.0.0`
